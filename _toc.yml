@@ -8,7 +8,7 @@ parts:
     chapters:
     - file: quickstart
       title: Úvod
-      section:
+      sections:
       - file: predstaveni
         title: Představení C#
       
