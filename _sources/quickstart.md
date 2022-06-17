@@ -13,9 +13,7 @@ kernelspec:
   name: .net-csharp
 ---
 
-# Vítej ve skriptech **programování**
-
-Tohle je stránka určená k hostování mnou napsaných skript pro předmět `programování a vývoj aplikací`. Zápisky jdou popořadě, tak jako dosavadní tématický plán tohoto předmětu.
+# Úvod
 
 ````{tip}
 V některých částech se setkáte s tzv. `code bloky`, které Vám v budoucnu umožní upravit si kód přímo v zápiskách, aby jste například vyzkoušeli jak něco funguje. Tyto `code bloky`
