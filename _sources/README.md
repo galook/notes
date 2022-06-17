@@ -28,6 +28,7 @@ $ make git m="popisek commitu"
 > ⬇︎ <br>
 > ![](https://vsmarketplacebadge.apphb.com/version/cisc0disco.ssps-notes-pack.svg)
 
+
 <br>
 
 >Máte-li nějaké otázky k vytváření materiálů či k setupnutí tohoto toolu, piště na discord: <br><br>
