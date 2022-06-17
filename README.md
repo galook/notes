@@ -1,4 +1,4 @@
-# Skripta
+## <ins>Pokud chcete kontributovat nějakými zápiskami, tady je návod jak na to:</ins>
 
 **Instalace**:
 
