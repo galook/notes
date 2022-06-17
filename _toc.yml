@@ -2,9 +2,10 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: quickstart
+root: index
 chapters:
-  - file: redir
+  - file: quickstart
+    title: Quickstart
 chapters:
   - file: predstaveni
-    title: "Představení C#"
+    title: Představení C#
