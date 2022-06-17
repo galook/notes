@@ -12,8 +12,8 @@ kernelspec:
   language: C#
   name: .net-csharp
 ---
-# Vítej ve skriptech **programování**
 
+# Vítej ve skriptech **programování**
 
 Tohle je stránka určená k hostování mnou napsaných skript pro předmět `programování a vývoj aplikací`. Zápisky jdou popořadě, tak jako dosavadní tématický plán tohoto předmětu.
 
@@ -29,7 +29,7 @@ Console.WriteLine("Hello world");
 ```
 >Toto je výstup kódu ⬆️
 ---
-<br><br>
+
 To je zatím vše, přeju hodně štěstí při učení
 
 ```{tableofcontents}

@@ -2,6 +2,9 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
+root: quickstart
 chapters:
-- file: zacatky
+  - file: redir
+chapters:
+  - file: predstaveni
+    title: "Představení C#"
