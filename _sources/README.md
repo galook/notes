@@ -23,6 +23,13 @@ $ make git m="popisek commitu"
 <br>
 <br>
 
+>**ℹ️ Doporučení** <br>
+> Nainstalujte si [balíček pro VSCode](https://marketplace.visualstudio.com/manage/publishers/cisc0disco/extensions/ssps-notes-pack/hub), který jsem pro Vás vytvořil, má všechny extensions, které Vám urychlí vývoj. <br>
+> ⬇︎ <br>
+> ![](https://vsmarketplacebadge.apphb.com/version/cisc0disco.ssps-notes-pack.svg)
+
+<br>
+
 >Máte-li nějaké otázky k vytváření materiálů či k setupnutí tohoto toolu, piště na discord: <br><br>
 > ![](https://dcbadge.vercel.app/api/shield/303614845981556738)
 
