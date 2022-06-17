@@ -15,11 +15,15 @@ kernelspec:
 
 # Úvod
 
-```{note}
+## Vysvětlení prvků skript
+
+```{admonition} Poznámka
+:class: note
+
 Tato sekce je pro **úplné začátečníky**, kteří ještě nikdy neprogramovali v žádném jazyce. Navazující témata budou postupně nabalovat Vaše vědomosti, takže pokud začínáte, doporučuji aby jste se učili, tak jak jdou témata za sebou
 ```
 
-````{tip}
+````{admonition} Code bloky
 V některých částech se setkáte s tzv. `code bloky`, které Vám v budoucnu umožní upravit si kód přímo v zápiskách, aby jste například vyzkoušeli jak něco funguje. Tyto `code bloky`
 vypisují i výstup daného kódu.
 ````
@@ -30,3 +34,12 @@ Příklad:
 Console.WriteLine("Hello world");
 ```
 >Toto je výstup kódu ⬆️
+
+<br>
+
+```{admonition} Upozornění 
+:class: warning
+
+Postupně zde budou přibívat jednotlivé **prvky**, které se budou používat v těchto skriptech, mějte strpění.
+---
+```

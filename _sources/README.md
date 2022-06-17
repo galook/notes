@@ -25,4 +25,4 @@ Windows/Linux: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd>
 <br>
 
 > **Jupyter Book** používá [MyST - Markedly Structured Text](https://myst-parser.readthedocs.io/en/latest/)
->  <br> <br> [Dokumentace MyST](https://jupyterbook.org/en/stable/reference/cheats)
+>  <br> <br> [Dokumentace MyST](https://jupyterbook.org/en/stable/reference/cheatsheet.html)
