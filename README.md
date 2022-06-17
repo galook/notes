@@ -1,3 +1,6 @@
+# Pokud hledáš odkaz na zápisky, tak je [zde](https://smichovska-sps.github.io/notes/index.html)
+<br>
+
 ## <ins>Pokud chcete kontributovat nějakými zápiskami, tady je návod jak na to:</ins>
 
 **Instalace**:
