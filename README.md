@@ -13,7 +13,7 @@ Pro vytvoření **HTML** z přiložených .md a jupyter notebooků:
 $ jupyter-book build ./
 ```
 
->Při použití editoru VScode, je nastavená zkratka pro spuštění tohoto příkazu.
+>Při použití editoru VScode je nastavená zkratka pro spuštění tohoto příkazu.
 ><br><br>
 Windows/Linux: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd>
 <br> MacOS: <kbd>⇧</kbd>+<kbd>⌘</kbd>+<kbd>B</kbd>
