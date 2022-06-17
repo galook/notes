@@ -25,9 +25,8 @@ jobs:
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
-        apt install dotnet
-        apt install dotnet tool install --global Microsoft.dotnet-interactive
-        echo jupyter kernelspec list | grep .net || true
+        sudo apt install dotnet
+        sudo apt install dotnet tool install --global Microsoft.dotnet-interactive
 
     # Build the book
     - name: Build the book
