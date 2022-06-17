@@ -5,6 +5,7 @@ format: jb-book
 root: index
 parts:
   - caption: "Příprava"
+    numbered: true
     chapters:
     - file: quickstart
       title: Úvod
