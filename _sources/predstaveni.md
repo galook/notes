@@ -12,7 +12,6 @@ kernelspec:
   language: C#
   name: .net-csharp
 ---
-
 Začátky
 ===
 
