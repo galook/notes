@@ -15,10 +15,6 @@ kernelspec:
 
 # Představení C#
 
-```{note}
-Tato sekce je pro **úplné začátečníky**, kteří ještě nikdy neprogramovali v žádném jazyce. Navazující témata budou postupně nabalovat Vaše vědomosti, takže pokud začínáte, doporučuji aby jste se učili, tak jak jdou témata za sebou
-```
-
 ```{code-cell} 
 Console.WriteLine("Hello world")
 ```
