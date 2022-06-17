@@ -44,5 +44,4 @@ Console.WriteLine("Hello world");
 :class: warning
 
 Postupně zde budou přibívat jednotlivé **prvky**, které se budou používat v těchto skriptech, mějte strpění.
----
 ```
