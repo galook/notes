@@ -28,4 +28,3 @@ Příklad:
 Console.WriteLine("Hello world");
 ```
 >Toto je výstup kódu ⬆️
----
