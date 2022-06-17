@@ -31,3 +31,6 @@ html:
   use_issues_button: false
   use_repository_button: false
   announcement: "<p'>⚠️ Tyto skripta jsou v raném vývoji ⚠️</p>"
+  comments:
+    utterances:
+      repo: "Smichovska-SPS/notes"
