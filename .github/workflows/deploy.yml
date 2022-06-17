@@ -27,7 +27,7 @@ jobs:
         pip install -r requirements.txt
         sudo apt-get install -y dotnet-runtime-6.0
         sudo dotnet tool install --global Microsoft.dotnet-interactive
-        sudo dotnet interactive jupyter install
+        sudo $HOME/.dotnet/tools/dotnet-interactive jupyter install
 
     # Build the book
     - name: Build the book
