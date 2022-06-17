@@ -4,24 +4,35 @@
 [![deploy](https://github.com/Smichovska-SPS/notes/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/Smichovska-SPS/notes/actions/workflows/deploy.yml)
 
 ## <ins>Pokud chcete kontributovat nějakými zápiskami, tady je návod jak na to:</ins>
+<br>
 
-**Instalace**:
+## **Instalace**:
 
-```
-$ pip install -r requirements.txt
-$ pip install -U jupyter-book
-```
+Stáhnutí tohoto repozitáře:
 
-Pro vytvoření **HTML** z přiložených .md a jupyter notebooků:
-
-```
-$ jupyter-book build ./
+```shell
+$ git clone https://github.com/Smichovska-SPS/notes.git
 ```
 
->Při použití editoru VScode je nastavená zkratka pro spuštění tohoto příkazu.
-><br><br>
-Windows/Linux: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd>
-<br> MacOS: <kbd>⇧</kbd>+<kbd>⌘</kbd>+<kbd>B</kbd>
+Poté po upravení libovolných souborů stačí napsat:
+
+```shell
+$ make git m="popisek commitu"
+```
+`Když schválím Váš request, Github přes Action automaticky předělá vaše zápisky na HTML a aktualizuje web`
+<br>
+<br>
+
+>Máte-li nějaké otázky k vytváření materiálů či k setupnutí tohoto toolu, piště na discord: <br><br>
+> ![](https://dcbadge.vercel.app/api/shield/303614845981556738)
+
+
+
+<!-- Při použití editoru VScode je nastavená zkratka pro spuštění tohoto příkazu.
+
+`Windows/Linux:` <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd>
+<br> `MacOS:` <kbd>⇧</kbd>+<kbd>⌘</kbd>+<kbd>B</kbd>
+-->
 
 <br>
 
