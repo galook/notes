@@ -24,10 +24,12 @@ jobs:
         python-version: ${{ matrix.python-version }}
     - name: Install dependencies
       run: |
+        mkdir --parents $HOME/.dotnet/tools
+        echo "$HOME/.dotnet/tools" >> $GITHUB_PATH
         pip install -r requirements.txt
         sudo apt-get install -y dotnet-runtime-6.0
         sudo dotnet tool install --global Microsoft.dotnet-interactive
-        sudo $HOME/.dotnet/tools/dotnet-interactive jupyter install
+        $GITHUB_PATH/.dotnet/tools/dotnet-interactive jupyter install
 
     # Build the book
     - name: Build the book
