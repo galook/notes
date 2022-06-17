@@ -10,6 +10,10 @@ logo: logo.jpg
 execute:
   execute_notebooks: force
 
+sphinx:
+  config:
+    html_theme: furo
+
 # Define the name of the latex output file for PDF builds
 latex:
   latex_documents:
@@ -25,6 +29,7 @@ repository:
 html:
   use_issues_button: false
   use_repository_button: false
+  theme: ""
   announcement: "<p'>⚠️ Tyto skripta jsou v raném vývoji ⚠️</p>"
   comments:
     utterances:
