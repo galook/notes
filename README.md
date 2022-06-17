@@ -1,6 +1,8 @@
 # Pokud hledáš odkaz na zápisky, tak je [zde](https://smichovska-sps.github.io/notes/index.html)
 <br>
 
+[![deploy](https://github.com/Smichovska-SPS/notes/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/Smichovska-SPS/notes/actions/workflows/deploy.yml)
+
 ## <ins>Pokud chcete kontributovat nějakými zápiskami, tady je návod jak na to:</ins>
 
 **Instalace**:
