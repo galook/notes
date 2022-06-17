@@ -3,9 +3,11 @@
 
 format: jb-book
 root: index
-chapters:
-  - file: quickstart
-    title: Quickstart
-chapters:
-  - file: predstaveni
-    title: Představení C#
+parts:
+  - caption: "Příprava"
+    chapters:
+    - file: quickstart
+      title: Úvod
+    - file: predstaveni
+      title: Představení C#
+      
