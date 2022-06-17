@@ -29,8 +29,3 @@ Console.WriteLine("Hello world");
 ```
 >Toto je výstup kódu ⬆️
 ---
-
-To je zatím vše, přeju hodně štěstí při učení
-
-```{tableofcontents}
-```
