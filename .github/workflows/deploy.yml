@@ -34,8 +34,8 @@ jobs:
     # Build the book
     - name: Build the book
       run: |
-        jupyter-book build ./
-
+        sphinx-build ./ ./_build/html
+ 
     # Deploy the book's HTML to gh-pages branch
     - name: GitHub Pages action
       uses: peaceiris/actions-gh-pages@v3.6.1
