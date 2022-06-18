@@ -9,7 +9,6 @@ logo: logo.png
 # See https://jupyterbook.org/content/execute.html
 execute:
   execute_notebooks: force
-  
 
 sphinx:
   config:
