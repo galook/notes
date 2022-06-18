@@ -1,5 +1,3 @@
-alert("YOOOOOOO")
-
 var link_script = document.createElement('script');
 var custom_script = document.createElement('script');
 
