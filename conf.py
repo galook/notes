@@ -11,7 +11,7 @@ execution_allow_errors = False
 execution_excludepatterns = []
 execution_in_temp = False
 execution_timeout = 30
-extensions = ['sphinx-autobuild','sphinx_togglebutton', 'sphinx_copybutton', 'myst_nb', 'jupyter_book', 'sphinx_thebe', 'sphinx_comments', 'sphinx_external_toc', 'sphinx.ext.intersphinx', 'sphinx_design', 'sphinx_book_theme', 'sphinx_jupyterbook_latex']
+extensions = ['sphinx_togglebutton', 'sphinx_copybutton', 'myst_nb', 'jupyter_book', 'sphinx_thebe', 'sphinx_comments', 'sphinx_external_toc', 'sphinx.ext.intersphinx', 'sphinx_design', 'sphinx_book_theme', 'sphinx_jupyterbook_latex']
 external_toc_exclude_missing = False
 external_toc_path = '_toc.yml'
 html_baseurl = ''
@@ -22,8 +22,7 @@ html_static_path = ['_static']
 html_theme = 'furo'
 html_theme_options = {'announcement': "<p'>⚠️ Tyto skripta jsou v raném vývoji ⚠️</p>",
                     "source_repository": "https://github.com/Smichovska-SPS/notes",
-                    "source_branch": "main",
-                    "source_directory": "/"}
+                    "source_branch": "main"}
 html_title = 'Programování a vývoj aplikací'
 jupyter_cache = ''
 jupyter_execute_notebooks = 'force'
