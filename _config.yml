@@ -33,5 +33,9 @@ html:
     utterances:
       repo: "Smichovska-SPS/notes"
       theme: "github-dark"
+  source_repository: "https://github.com/Smichovska-SPS/notes",
+  source_branch: "main",
+  source_directory: "/",
+
 
 exclude_patterns: [./test.ipynb, ./README.md]
