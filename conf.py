@@ -20,7 +20,10 @@ html_logo = 'logo.jpg'
 html_sourcelink_suffix = ''
 html_static_path = ['_static']
 html_theme = 'furo'
-html_theme_options = {'announcement': "<p'>⚠️ Tyto skripta jsou v raném vývoji ⚠️</p>"}
+html_theme_options = {'announcement': "<p'>⚠️ Tyto skripta jsou v raném vývoji ⚠️</p>",
+                    "source_repository": "https://github.com/Smichovska-SPS/notes",
+                    "source_branch": "main",
+                    "source_directory": "/"}
 html_title = 'Programování a vývoj aplikací'
 jupyter_cache = ''
 jupyter_execute_notebooks = 'force'
