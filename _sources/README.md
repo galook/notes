@@ -1,14 +1,19 @@
 # Pokud hledáš odkaz na zápisky, tak je [zde](https://smichovska-sps.github.io/notes/index.html)
-<br>
 
 [![deploy](https://github.com/Smichovska-SPS/notes/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/Smichovska-SPS/notes/actions/workflows/deploy.yml)
 
-## <ins>Pokud chcete kontributovat nějakými zápiskami, tady je návod jak na to:</ins>
+## <ins>Upravení zápisků:</ins>
+---
+
+## Možnost 1:
+
+![gif](https://media2.giphy.com/media/knLNFCf1COVe4G4zYd/giphy.gif)
+
 <br>
 
-## **Instalace**:
+## Možnost 2:
 
-Stáhnutí tohoto repozitáře:
+Stáhněte si repozitář:
 
 ```shell
 $ git clone https://github.com/Smichovska-SPS/notes.git
@@ -25,7 +30,6 @@ $ make git m="popisek commitu"
 
 >**ℹ️ Doporučení** <br>
 > Nainstalujte si [balíček pro VSCode](https://marketplace.visualstudio.com/items?itemName=cisc0disco.ssps-notes-pack), který jsem pro Vás vytvořil, má všechny extensions, které Vám urychlí vývoj. <br>
-> ⬇︎ <br>
 > ![](https://vsmarketplacebadge.apphb.com/version/cisc0disco.ssps-notes-pack.svg)
 
 
