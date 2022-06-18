@@ -33,6 +33,5 @@ html:
     utterances:
       repo: "Smichovska-SPS/notes"
       theme: "github-dark"
-  google_analytics_id: G-8ENBZ1TNYP
 
 exclude_patterns: [./test.ipynb, ./README.md]

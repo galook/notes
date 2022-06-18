@@ -19,6 +19,7 @@ html_favicon = ''
 html_logo = 'logo.jpg'
 html_sourcelink_suffix = ''
 html_static_path = ['_static']
+templates_path = ["_templates"]
 html_theme = 'furo'
 html_theme_options = {'announcement': "<p'>⚠️ Tyto skripta jsou v raném vývoji ⚠️</p>",
                     "source_repository": "https://github.com/Smichovska-SPS/notes",
