@@ -23,7 +23,7 @@ html_theme = 'furo'
 html_js_files = [
     'test.js',
 ]
-html_theme_options = {'announcement': "<p'>⚠️ Tyto skripta jsou v raném vývoji ⚠️</p>",
+html_theme_options = {'announcement': "<p'>⚠️ Tato skripta jsou v raném vývoji ⚠️</p>",
                     "source_repository": "https://github.com/Smichovska-SPS/notes",
                     "source_branch": "main"}
 html_title = 'Programování a vývoj aplikací'
